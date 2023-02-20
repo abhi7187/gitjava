@@ -1,5 +1,5 @@
 class Test{
 	public static void main(String arfs[]){
-		system.out.println("hello");
+		system.out.println("hell");
 	}
 }
